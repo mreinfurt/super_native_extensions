@@ -16,7 +16,7 @@ dependencies:
   super_native_extensions:
     git:
       url: https://github.com/mreinfurt/super_native_extensions
-      ref: e7f089b011a278b185d8abdd564e330acc868c79
+      ref: be3877af2b005300019647f0920335c73bbd0fe2
       path: super_native_extensions
 dev_dependencies:
   flutter_test:
